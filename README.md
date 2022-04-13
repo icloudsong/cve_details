@@ -1,0 +1,2 @@
+# cve_details
+这是一个cve_details网站的爬虫，爬取网站上所有历史cve漏洞信息
